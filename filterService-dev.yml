@@ -14,7 +14,7 @@ spring:
         name: filter
     data:
         mongodb:
-            database: inventory
+            database: inventoryfilterdb
             uri: mongodb://localhost:27017
     kafka:
         consumer:
